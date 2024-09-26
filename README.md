@@ -10,4 +10,4 @@ GAN works on two models (Generator Model and Discriminator Model) contesting eac
 
 Model coded in Python, frontend in HTML and css.
 Data can be found in "./data/".
-Images generated are stored in "./static/generated_images/"
+Images generated are stored in "./static/generated_images/".
